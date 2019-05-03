@@ -1,1 +1,1 @@
-crawler/NIPS_crawl.py needs to be run by python2.
+crawler/NIPS_crawl.py needs to be run with python 2.
